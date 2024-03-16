@@ -1,3 +1,3 @@
-Веб-приложения афиши кинотеатра кинопоска с описание фильмов.
+Web application movie theater movie posters with movie descriptions.
 
-Для кино карточек использовал API кинопоиска.
+For movie cards, we used the movie search API.
